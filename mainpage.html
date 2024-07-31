@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>  
+    #imagepic{
+        width: 400px;
+        border-radius: 8px;
+    }
+    #maindiv{
+        width: 400px;
+    }
+    #rating{
+        width: 20px;
+        padding: 3px;
+        border-radius: 2px;
+        background-color: green;
+    }
+    #offer{
+        background-color: rgb(83,83,243);
+        width: 60px;
+        position: relative;
+        top: -50px;
+    }
+    #offer::after{
+        content: "off";
+    }
+    #showitems{
+        display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: auto auto;
+    }
+    #showcircles{
+        width: 80%;
+        display: flex;
+        overflow-x: scroll;
+    }
+    #showcircles::-webkit-scrollbar{
+        display: none;
+    }
+    #circleimages{
+    height: 50%;
+    width: 50%;
+}
+    </style>
+</head>
+<body onload="show()">
+    <center><div id="showcircles">
+        </div></center>
+    <center><div id="showcircles"></div></center>
+    <section id="showitems"></section>
+    <script src="./script.js"></script>
+    
+    
+</body>
+</html>

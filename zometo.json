@@ -1,0 +1,132 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "items":[
+        {
+            "img":"IMG_3860_auto_x1_colored_toned-1160x773.jpg ",
+            "b_name":"Chhapan bhog",
+            "price":" Price 60rs",
+            "rating":"3.5",
+            "d_time":"89 min",
+            "address":"Punjabi bagh",
+            "offer":"50%",
+            "id":1
+        }, 
+        {
+            "img":" new burger.jpeg",
+            "b_name":"chhapan bhog",
+            "price":" Price 60rs",
+            "rating":"3.5",
+            "d_time":"89 min",
+            "address":"MP nagar",
+            "offer":"50%",
+            "id":2
+        },    
+        {
+            "img":"burger chees.jpeg",
+            "b_name":"chhapan bhog",
+            "price":" Price 60rs",
+            "rating":"3.5",
+            "d_time":"89 min",
+            "address":"Gulmoher",
+            "offer":"50%",
+            "id":3
+        },    
+        {
+            "img":"burger1.jpeg ",
+            "b_name":"chhapan bhog",
+            "price":" Price 60rs",
+            "rating":"3.5",
+            "d_time":"89 min",
+            "address":"kolar",
+            "offer":"50%",
+            "id":4
+        },    
+        {
+            "img":"doubble burger.jpg ",
+            "b_name":"chhapan bhog",
+            "price":" Price 60rs",
+            "rating":"3.5",
+            "d_time":"89 min",
+            "address":"old city",
+            "offer":"50%",
+            "id":5
+        }
+    ], 
+        "circleimages":[
+           {
+            "images":"doubble burger.jpg ",
+            "id":1
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":2
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":3
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":4
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":5
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":6
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":7
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":8
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":9
+
+           },
+           {
+            "images":"doubble burger.jpg ",
+            "id":10
+
+           }
+           
+        ]  
+    }  
+
+        
+       
+       
+       
+        
+    
+  
